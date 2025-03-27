@@ -1,7 +1,7 @@
 {
   "name": "domainconnect",
+  "description": "Domain Connect JavaScript Utilities",
   "version": "1.0.0",
-  "private": true,
   "devDependencies": {
     "@types/bun": "latest"
   },
